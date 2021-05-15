@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SMSM</string>
+    <string name="large_text">"  Take pictures  >  Create movie  >  Share  =)"</string>
+    <string name="action_picture">take picture</string>
+    <string name="action_share">share with…</string>
+
+    <string name="action_amovie">reverse: dcba</string>
+    <string name="action_rapmovie">abc-d-cba</string>
+    <string name="action_slow">slow</string>
+    <string name="action_high">high resolution</string>
+    <string name="action_info">info</string>
+    <string name="action_movie">Create movie!</string>
+
+    <string name="fail">"  Fail! You have to take pictures..."</string>
+    <string name="mpg_fail">ffmpeg fail</string>
+    <string name="ok">"  Ok...  You can use the share button... =)"</string>
+    <string name="processing">processing…</string>
+    <string name="picadd">picture added</string>
+    <string name="no_support">Gif and Whatsapp compatible video will not work :-(</string>
+    <string name="created_by">Created with SMSM</string>
+    <string name="rw">SMSM Sponsor Ads</string>
+    <string name="help_improve">Help To Improve</string>
+    <string name="action_picture_video">"   Fail! You need to take pictures and make a movie..."</string>
+</resources>

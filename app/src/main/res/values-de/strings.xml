@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMSM</string>
+    <string name="ok">"  Ok... Sie können die Schaltfläche \"Teilen\" verwenden... =)"</string>
+    <string name="fail">"  Mist! Sie müssen bilder aufnehmen..."</string>
+    <string name="mpg_fail">ffmpeg schlug fehl</string>
+    <string name="large_text">"  Bild machen  >  Video erzeugen  >  Teilen  =)"</string>
+    <string name="action_picture">Bild machen</string>
+    <string name="processing">verarbeite...</string>
+    <string name="picadd">Bild hinzugefügt</string>
+
+    <string name="action_amovie">rückwärts: dcba</string>
+    <string name="action_rapmovie">abc-d-cba</string>
+    <string name="action_slow">langsam</string>
+    <string name="action_high">hohe Qualität</string>
+    <string name="action_info">Info</string>
+    <string name="action_movie">Video erzeugen!</string>
+    <string name="action_share">teilen…</string>
+
+    <string name="no_support">Gif- und Whatsapp-kompatible Video wird nicht gehen :-(</string>
+    <string name="created_by">Erzeugt mit SMSM</string>
+    <string name="rw">SMSM Sponsor Ads</string>
+    <string name="help_improve">Hilfe Zur Verbesserung</string>
+    <string name="action_picture_video">"   Mist! Sie müssen bilder aufnehmen und einen film erstellen..."</string>
+
+</resources>
